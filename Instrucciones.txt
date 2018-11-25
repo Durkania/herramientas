@@ -1,0 +1,5 @@
+Usuario:
+user1@tiendanextu.com
+
+Password:
+Cl@veUser1
