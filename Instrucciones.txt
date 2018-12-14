@@ -1,5 +1,0 @@
-Usuario:
-user1@tiendanextu.com
-
-Password:
-nextu
